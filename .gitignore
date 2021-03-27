@@ -1,0 +1,5 @@
+# You should download SDK Manager from NVIDIA's website:
+# https://developer.nvidia.com/nvsdk-manager
+
+# Package files
+*.deb
