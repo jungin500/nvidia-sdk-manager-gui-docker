@@ -1,6 +1,11 @@
+![image](https://user-images.githubusercontent.com/5201073/112714947-5d2eb680-8f20-11eb-8af2-4f662b41829f.png)
+
+![image](https://user-images.githubusercontent.com/5201073/112715008-dd551c00-8f20-11eb-874e-d04d4ce3424c.png)
+
+
 - Easily run NVIDA SDK Manager **GUI** within Ubuntu 18.04 Docker container
 
-# instaillation
+# Installation
 ```bash
 docker pull jungin500/nvidia-sdk-manager-gui:1.4.1-7402
 ```
@@ -23,6 +28,7 @@ sudo docker run \
 	-e DISPLAY=$DISPLAY \
 	jungin500/nvidia-sdk-manager-gui:1.4.1-7402
 ```
+- next - **Login with QR Code** and Use SDK Manager! - You can login with QR code on right top corner of login screen. currently, login browser will not appear.
 
 # Q&A or Issues
 - Write down your issue to "Issue" board! I'll write find out ways to make it work, and respond ASAP. thanks.
