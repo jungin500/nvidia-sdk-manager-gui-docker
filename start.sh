@@ -7,6 +7,6 @@ sudo docker run \
 	--ipc=host \
 	-v /dev/bus/usb:/dev/bus/usb/ \
 	-v /tmp/.X11-unix/:/tmp/.X11-unix \
-	-v /home/jungin500/다운로드:/home/nvidia/Downloads \
+	-v $(pwd)/sdkm_downloads:/home/nvidia/Downloads/nvidia/sdkm_downloads \
 	-e DISPLAY=$DISPLAY \
-	jungin500/nvidia-sdk-manager-gui
+	jungin500/nvidia-sdk-manager-gui:1.4.1-7402
