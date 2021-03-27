@@ -4,6 +4,11 @@
 
 
 - Easily run NVIDA SDK Manager **GUI** within Ubuntu 18.04 Docker container
+- Suitable for users who are using Other linux distros or versions (Ubuntu 20.04 and so on)
+
+# Tested Environment
+- Ubuntu 20.04 LTS (amd64)
+- and so on ... (Contribution on Issue board are welcome!)
 
 # Installation
 ```bash
