@@ -5,6 +5,7 @@
 
 - Easily run NVIDA SDK Manager **GUI** within Ubuntu 18.04 Docker container
 - Suitable for users who are using Other linux distros or versions (Ubuntu 20.04 and so on)
+- Related thread: https://forums.developer.nvidia.com/t/sdk-manager-ubuntu-20-04-lts/125711/24
 
 # Tested Environment
 - Ubuntu 20.04 LTS (amd64)
@@ -39,5 +40,5 @@ sudo docker run \
 - Write down your issue to "Issue" board! I'll write find out ways to make it work, and respond ASAP. thanks.
 
 # License
-- SDK Manager: NVIDIA Corporation. (Link)[https://developer.nvidia.com/nvidia-sdk-manager]
+- SDK Manager: NVIDIA Corporation. [Link](https://developer.nvidia.com/nvidia-sdk-manager)
 - I am not affliated and/or sponsored from NVIDIA. It's my private work to use within Ubuntu 20.04 environment.
